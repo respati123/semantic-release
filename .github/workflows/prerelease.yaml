@@ -4,7 +4,9 @@ name: pre release
 on:
   push:
     branches:
-      - release/*
+      - alpha
+      - beta
+      - rc
 
 jobs:
   release:
