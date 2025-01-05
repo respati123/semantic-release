@@ -1,10 +1,7 @@
 {
   "branches": [
     "master",
-    {
-      "name": "release/*",
-      "prerelease": true
-    },
+    "next",
     {
       "name": "alpha",
       "prerelease": "alpha"
