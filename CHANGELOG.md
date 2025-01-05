@@ -1,3 +1,12 @@
+## [1.1.2](https://github.com/respati123/semantic-release/compare/v1.1.1...v1.1.2) (2025-01-05)
+
+
+### Bug Fixes
+
+* **conflict:** conflic ([0b01b01](https://github.com/respati123/semantic-release/commit/0b01b0181484cf5449fca9bf2e96330d924edd98))
+* **fix:** fix ([51de7e1](https://github.com/respati123/semantic-release/commit/51de7e1d86d29063d94075b16cc7d53cba1dca2d))
+* **text:** text ([e98b73d](https://github.com/respati123/semantic-release/commit/e98b73d21ed5b9c340de3f7e9659a02be37d36da))
+
 ## [1.1.1](https://github.com/respati123/semantic-release/compare/v1.1.0...v1.1.1) (2025-01-05)
 
 
