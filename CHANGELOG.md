@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/respati123/semantic-release/compare/v1.0.0...v1.1.0) (2025-01-05)
+
+
+### Features
+
+* **text:** file text ([a89dd13](https://github.com/respati123/semantic-release/commit/a89dd13031d3550839b6bb02c359ba6dc24cdfe7))
+
 # 1.0.0 (2025-01-05)
 
 
