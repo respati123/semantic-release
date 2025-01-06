@@ -1,0 +1,19 @@
+
+name: Workflow B
+
+on:
+  workflow_run:
+    workflows:
+      - Workflow A
+    types:
+      - completed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Run Workflow B tasks
+        run: echo "Workflow B is running because Workflow A completed"
